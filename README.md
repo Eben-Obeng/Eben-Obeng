@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eben-obeng" alt="eben-obeng" /></a> </p>
 
-- 🔭 Projects
+- 🔭  Projects
 -  [Updating data for Ghana Statistical Systems](https://github.com/sdg-ghana/data)
 
 - Still updating project  [Ghana Statistical Systems](https://github.com/Eben-Obeng/Test-Data)
