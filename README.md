@@ -1,4 +1,4 @@
-<h1 align="center">Hey buddy, this is Ebenezer Banfro Obeng</h1>
+<h1 align="center">Ebenezer Banfro Obeng</h1>
 <h3 align="center">A hardworking and diligent individual who has a keen interest in exploring how data analysis can be used to address data related challenges within health and industrial sectors</h3>
 <img align="right" alt"400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fonline.york.ac.uk%2Fwp-content%2Fuploads%2F2021%2F07%2Fman-in-a-suit-standing-behind-a-hologram-of-data-analytics.jpg&tbnid=PBRqV_dmBjemEM&vet=12ahUKEwitgdrB8feCAxW2rycCHQhIAr8QMygFegQIARB-..i&imgrefurl=https%3A%2F%2Fonline.york.ac.uk%2Feverything-you-need-to-know-about-data-analytics%2F&docid=Hrzm0Yb-zZeyBM&w=1280&h=720&q=data%20analysis&ved=2ahUKEwitgdrB8feCAxW2rycCHQhIAr8QMygFegQIARB-">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eben-obeng&label=Profile%20views&color=0e75b6&style=flat" alt="eben-obeng" /> </p>
