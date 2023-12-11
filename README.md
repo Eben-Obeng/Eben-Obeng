@@ -9,7 +9,7 @@
 -  [Updating data for Ghana Statistical Systems](https://github.com/sdg-ghana/data)
 
 - Still updating project  [Ghana Statistical Systems](https://github.com/Eben-Obeng/Test-Data)
-- [https://statsghana.gov.gh/covidtracker/wave_3_summary_6.pdf](https://statsghana.gov.gh/covidtracker/wave_3_summary_6.pdf)
+- [https://drive.google.com/file/d/1eG_d3Yx3MZJ_Z1l6GziSEDEfQjmnu2EQ/view?usp=sharing](https://drive.google.com/file/d/1eG_d3Yx3MZJ_Z1l6GziSEDEfQjmnu2EQ/view?usp=sharing)
 - [https://sdgs-ghana.github.io/](https://sdgs-ghana.github.io/)
 - [Final year school project](https://drive.google.com/file/d/11C9QyAUF7hVxaRY2YOiRsHhfnTgpQAK2/view?usp=sharing)
 - 🌱 I’m currently learning **Python**
